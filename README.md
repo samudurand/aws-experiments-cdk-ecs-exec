@@ -1,4 +1,4 @@
-# aws-experiments-cdk-ecs-exec
+# ECS Exec via CDK
 Demonstrate ECS Fargate Exec configuration via CDK
 
 This stack deploys a simple ECS Fargate cluster, with a single task. The container deployed uses the ECS Exec feature to become reachable via the SSM client.
